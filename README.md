@@ -32,6 +32,7 @@
 1. 克隆项目
 ```bash
 git clone https://github.com/carlin-rj/translation-system-web.git
+cd translation-system-web
 ```
 
 2. 安装依赖
